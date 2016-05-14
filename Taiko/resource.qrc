@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>123.jpeg</file>
+        <file>8787.jpg</file>
+        <file>bg_clear.png</file>
+        <file>22323.png</file>
+        <file>bomb.png</file>
+        <file>start.png</file>
+        <file>quit.png</file>
+        <file>clock.png</file>
+        <file>restart.png</file>
+        <file>drum.png</file>
+        <file>final.jpg</file>
+        <file>sfieldbg.png</file>
+        <file>notbombvoice.mp3</file>
+        <file>drumvoice.mp3</file>
+        <file>bombvoice.mp3</file>
+    </qresource>
+</RCC>
